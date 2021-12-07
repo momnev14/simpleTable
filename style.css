@@ -1,0 +1,38 @@
+.selected-row{
+
+    background-color: grey;
+}
+
+.header{
+
+  background-color: 	#282828
+}
+
+
+.bold-row{
+
+    font-weight: bold
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    height: 15px;
+  }
+  .button1 {
+    background-color: black;
+    color: #606060;
+    border: 2px solid #ddd; /* Green */
+  }
+
+  .table{
+    background-color: black;
+    color: 	#C8C8C8;
+  }
+  
+  .right{
+    text-align: right;
+  }
+  
+  .red{
+    color: red
+  }
